@@ -3335,7 +3335,7 @@ h1.page-title + .tag-cloud-list {
 #page-header {
   position: relative;
   width: 100%;
- 
+  background: /img/wallpaper/wallhaven-yx5vog.jpg;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3419,6 +3419,7 @@ h1.page-title + .tag-cloud-list {
 }
 #page-header.not-home-page {
   height: 400px;
+  background: /img/wallpaper/wallhaven-yx5vog.jpg;
 }
 @media screen and (max-width: 768px) {
   #page-header.not-home-page {
