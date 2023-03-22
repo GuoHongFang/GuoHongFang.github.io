@@ -3419,8 +3419,7 @@ h1.page-title + .tag-cloud-list {
 }
 #page-header.not-home-page {
   height: 400px;
-  background: /img/wallpaper/wallhaven-yx5vog.jpg;
-}
+  }
 @media screen and (max-width: 768px) {
   #page-header.not-home-page {
     height: 280px;
